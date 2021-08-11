@@ -28,7 +28,7 @@
 # Of course, this is only an estimate, but 10,000 is a decent sample size.
 # Some knowledge of mathematics could give you the exact answer and save
 # you the trouble of writing a program, but programmers are notoriously
-# bad at math.
+# bad at math. 
 
 
 import random
